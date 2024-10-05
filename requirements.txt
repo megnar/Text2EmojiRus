@@ -1,0 +1,12 @@
+pandas
+sklearn
+import torch
+transformers
+peft
+plotly
+numpy
+gensim
+spacy
+tqdm
+catboost
+telethon
